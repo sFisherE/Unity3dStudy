@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NewBehaviourScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LoadAssetbundle.cs">
     <Files>
-      <File FileName="Assets\Scripts\NewBehaviourScript.cs" Line="17" Column="2" />
-      <File FileName="Assets\Scripts\CoroutineScheduler\CoroutineScheduler.cs" Line="158" Column="30" />
+      <File FileName="Assets\Scripts\LoadAssetbundle.cs" Line="23" Column="30" />
+      <File FileName="Assets\Scripts\CoroutineScheduler\CoroutineScheduler.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CoroutineScheduler\CoroutineNode.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CoroutineScheduler\CoroutineSchedulerTest.cs" Line="1" Column="1" />
     </Files>

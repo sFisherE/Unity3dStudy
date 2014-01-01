@@ -9,3 +9,6 @@ Unity3dStudy
 6.SkinnedMeshRenderer MeshRenderers 
 7.sharedMaterial
 8.assetbundle
+9.version control
+10.math
+11.
